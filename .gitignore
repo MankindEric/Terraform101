@@ -1,0 +1,7 @@
+.terraform
+.idea
+*.tfstate
+*.backup
+*.out
+*.zip
+*/madlibs/*
